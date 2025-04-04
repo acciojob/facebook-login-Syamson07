@@ -35,5 +35,7 @@ a{
 	text-decoration:underline #1877f2;
 }
 .signup{
-	background-color:#42b72a
+	background-color:#42b72a;
+	border-radius:5px;
+	padding:10px 20px;
 }
